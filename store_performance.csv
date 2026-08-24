@@ -1,0 +1,11 @@
+,Store_ID,Store_Name,Store_City,Store_Location,Units_Sold,Revenue,Cost,Profit,Profit_Margin
+30,31,Maven Toys Ciudad de Mexico 2,Cuidad de Mexico,Airport,42757,554553.43,384697.43,169856,0.306293
+29,30,Maven Toys Guadalajara 3,Guadalajara,Airport,31609,449354.91,327783.91,121571,0.270546
+8,9,Maven Toys Ciudad de Mexico 1,Cuidad de Mexico,Downtown,33479,433556.21,322260.21,111296,0.256705
+16,17,Maven Toys Toluca 1,Toluca,Downtown,32668,411157.32,306545.32,104612,0.254433
+6,7,Maven Toys Monterrey 2,Monterrey,Downtown,28318,372998.82,266215.82,106783,0.286282
+45,46,Maven Toys Guadalajara 4,Guadalajara,Downtown,24136,348466.64,246288.64,102178,0.293222
+41,42,Maven Toys Hermosillo 3,Hermosillo,Commercial,23236,344846.64,246021.64,98825,0.286577
+38,39,Maven Toys Xalapa 2,Xalapa,Downtown,25296,344307.04,255670.04,88637,0.257436
+36,37,Maven Toys Ciudad de Mexico 3,Cuidad de Mexico,Residential,26634,337424.66,243403.66,94021,0.278643
+3,4,Maven Toys Saltillo 1,Saltillo,Downtown,24010,330408.9,236156.9,94252,0.285259

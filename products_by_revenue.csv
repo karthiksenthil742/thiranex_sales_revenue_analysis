@@ -1,0 +1,27 @@
+ TOP 10 PRODUCTS BY REVENUE,,,,,,,,
+,,,,,,,,
+,Product_ID,Product_Name,Product_Category,Units_Sold,Revenue,Cost,Profit,Profit_Margin
+17,18,Lego Bricks,Toys,59737,2388882.63,2090197.63,298685,0.125031
+5,6,Colorbuds,Electronics,104368,1564476.32,729532.32,834944,0.533689
+18,19,Magic Sand,Art & Crafts,60598,968962.02,847766.02,121196,0.125078
+0,1,Action Figure,Toys,57958,926748.42,579000.42,347748,0.375235
+29,30,Rubik's Cube,Games,45672,912983.28,821639.28,91344,0.10005
+7,8,Deck Of Cards,Games,84034,587397.66,335295.66,252102,0.429185
+30,31,Splash Balls,Sports & Outdoors,60248,541629.52,481381.52,60248,0.111235
+23,24,Nerf Gun,Sports & Outdoors,26543,530594.57,397879.57,132715,0.250125
+1,2,Animal Figures,Toys,39089,507766.11,390499.11,117267,0.230947
+6,7,Dart Gun,Sports & Outdoors,31588,505092.12,378740.12,126352,0.250156
+,,,,,,,,
+ BOTTOM 10 PRODUCTS BY REVENUE,,,,,,,,
+,,,,,,,,
+,Product_ID,Product_Name,Product_Category,Units_Sold,Revenue,Cost,Profit,Profit_Margin
+34,35,Uno Card Game,Games,2710,21652.9,10812.9,10840,0.500626
+4,5,Classic Dominoes,Games,4471,44665.29,35723.29,8942,0.2002
+27,28,Playfoam,Art & Crafts,4158,45696.42,16590.42,29106,0.636943
+3,4,Chutes & Ladders,Games,3829,49738.71,38251.71,11487,0.230947
+19,20,Mini Basketball Hoop,Sports & Outdoors,2647,66148.53,23796.53,42352,0.640256
+21,22,Monopoly,Games,3385,67666.15,47356.15,20310,0.30015
+32,33,Teddy Bear,Toys,6416,83343.84,70511.84,12832,0.153965
+22,23,Mr. Potatohead,Toys,8605,85963.95,42938.95,43025,0.500501
+11,12,Foam Disk Launcher,Sports & Outdoors,7620,91363.8,68503.8,22860,0.250209
+31,32,Supersoaker Water Gun,Sports & Outdoors,6793,101827.07,81448.07,20379,0.200133
